@@ -1,0 +1,951 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "205B61098240818685D79734988ACECB27D5D5C8",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "632C9F0A65B482E7FF34B408762B8AD3F77AEB7F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "29E2A20BFB3B932328B4B06C15AA4FEB68A05E31",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_01c"
+			]
+		},
+		{
+			"ShaderMapHash": "F9C4230C4C9AEFB35DCEA718C52BF7FC2BAAB6D2",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_02d"
+			]
+		},
+		{
+			"ShaderMapHash": "6467CB0E585F2F8AB3BFF1DEE1F09CAE691912B8",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Plaster_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "2C0DAD0F14BF43664C51F71B48875854BA290058",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Car_Miror"
+			]
+		},
+		{
+			"ShaderMapHash": "50E6B40FA6F9788FBA88F524B0ABC63AE8D8C4E6",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "392D501217C74DD915416BBD31663D8FA555AF0E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BDCBB912AAE4571A42962E286E78EBC35EC9785B",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Paintings_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "F000D113347B4E2104EE230C95A36F1F89D6D7EB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "EF94E914AEEAD5AB165359F058D7F02F1E58B1CC",
+			"Assets": [
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_40962_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "29D98B15A321E24370649CB0FBDF8BE520E4D1A7",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Hair_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "7B0E25184D5110E12C088A3881C0CB4DF67BAFDC",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Panels_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "3548B41BDE863D1A1B8A7335D72A5DAF1DBDDAC1",
+			"Assets": [
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_40033_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_t1324_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/dclassic_2023-12-27_113638_675_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B4BE8F1C796AD04BCAA0634166B5FDD19BCA5058",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5B00861F4B26B01D2BEB49A3AF238704F40D2056",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Emissive_01d"
+			]
+		},
+		{
+			"ShaderMapHash": "59747C206AACC1A8C7E623BCEFDB6D0C526F95D9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "C157F62038B169820CAF794DA703CCBF51D2E88C",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "C1144121D4D655695D3376DA9EAA2243059EB0EC",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0741D82113B6D4A2F399C2A633D418102BD1CD14",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "62945C222DD73CDE89321FC41012262875A481CC",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_CarPaint_Red_Metallic_01a",
+				"/Game/Showcase/Materials/Instance/MI_CarPaint_Yellow_Metallic_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "DB69F823AD3561A8227FEABA96E39ECC4923B6BA",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "08292A25102681A04ED40F998EA846B81AEDC5D1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "8D489727FB5C0A1B3FBAC6BDF84494F9E715837E",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Lightbeam_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "4880AB27E560723A96EDED8FD45C1FEC7B54061F",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_01b"
+			]
+		},
+		{
+			"ShaderMapHash": "8C6BAF27FB7D4BD494BCF55164D112FF8E75BACF",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Car_Painted_Metal_01a",
+				"/Game/Showcase/Materials/Instance/MI_Car_Plastic_Satin_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "53C3C2279A716DD4E124A7E265972DBB3CBA237A",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "58DC7E2811FC8F2F7487F868246476EC9F550CF9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B2A04F2B38E53DA462E439A6D410D21258F9A5F2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FD41B32B280B7E91B0AA8B944EAAD8814EC1B8A7",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Hair_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "5A40322DA3B4089E0D218CE6404B34CADF99B202",
+			"Assets": [
+				"/Game/Showcase/EpicContent/Materials/MM_Default_Mat_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "8B0619363FB07BB4B83A11A21E7735C791FD8179",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "66C2253661E4125625CDDCCCA4F5D3A395270E32",
+			"Assets": [
+				"/Game/Showcase/EpicContent/Materials/MM_Car_Master_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "6379D138A05FE8BD0C79F9D94A9CC09DDC61413D",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "55A97C3ACE263DD71525BE9C1F832466B11941CA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CD7DD73A704624C9F269327ED965615D26003789",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2035243C74A2FD41328FAC176B0FEF33E9AE8DC0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BBC08E3CA36AAE1B72CB5DF013C810C8BE809C82",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Glass_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "8F13643DD07AADE3D0C0AC6D532255B96D257D4A",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "8E26A33D20A6FAF0BF8379E91D8248C753B5466B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0F504F3E4948E97F2BD4CD144BFB6A950C6B07D6",
+			"Assets": [
+				"/Game/Showcase/EpicContent/Materials/MM_Master_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "6256E53E8CEAD6CF3AFFAF4E276FA52328251BA6",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Trims_01d"
+			]
+		},
+		{
+			"ShaderMapHash": "097742431F71004DC24F2E9F6E99425B6C992083",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Car_Metal_05a",
+				"/Game/Showcase/Materials/Instance/MI_Car_Metal_06a"
+			]
+		},
+		{
+			"ShaderMapHash": "8C0445470C7F54A62BD249BEB0D5C766648A0CF1",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_LM_Dress_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "D92ADD4743F702B7F7D9F3D0F9119D7A605CA7CE",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Trims_01b"
+			]
+		},
+		{
+			"ShaderMapHash": "C43921490801B4883B7E1E54D22374C9FCEA56F6",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D083134B15724DDACC17BB21D3198BD7A89DE0CA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3D50E94BCF148DF09235611332823EFD9E4A480D",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "2E65564CD1722119A3B65F3E21CC3BCB6873B022",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9803584CD5EDB18CD73257A0D77A1505726ED105",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C3E32550159F504C17626A2F5C6CDA68E1BB6C74",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "DA88F153DCB87BFAF69480807E7E26E6FBD5E5AA",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4891735463ACCB09072DD4460A87D09E263DD780",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "1EE64A5587EC705D2EF7AE4FC9D4A4249C126A8C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "841CE85AD851E94BBF0E77189FE3CF17E4371598",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B744565D4A67A5CA6E57602C75C963A2A349C5AF",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "65BBF15DE12E781366AB339A274C063636BCF632",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Trims_01a",
+				"/Game/Showcase/Materials/Instance/MI_Trims_01c"
+			]
+		},
+		{
+			"ShaderMapHash": "87E2535F0C0D346AD86EAE6D1FFF585F2A385B20",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "49ECDC5F97D6F16F4FAAAA646D3D63A72F887D5A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "4117BA63B965A9743BD97033D015FC5AC0100BDC",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Rubber_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "00571565ED4802271717BFF63984A163BE672BD2",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9506A265DD8479A0F9D28DAF3F578BD507E4988C",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_03b"
+			]
+		},
+		{
+			"ShaderMapHash": "0D97D86729C74EF7395AAD72DF40BE7EDC40FB70",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "70DF446C4FB4CED2FC4115FCF9B51DE92941D066",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_CarPaint_Black_01a",
+				"/Game/Showcase/Materials/Instance/MI_CarPaint_Blue_01a",
+				"/Game/Showcase/Materials/Instance/MI_CarPaint_White"
+			]
+		},
+		{
+			"ShaderMapHash": "60DCE06D609E6D44406235535FE348C13E4A7F6C",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Assets"
+			]
+		},
+		{
+			"ShaderMapHash": "275AE56DE06129058E3A8A08ECFBC508730B0174",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "5DD0E66E6B8E5A65565E299FA4410BEBFAB23343",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E17143760DBCEE10FAB8721D9F4C68E419FDD9E2",
+			"Assets": [
+				"/Engine/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01",
+				"/Game/Showcase/EpicContent/Materials/MM_Lightbeam_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "4945BB76F4E5C2BA42740A37AB961E3CF68711EC",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Card_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "8ED9B1774FCA7BCE8E73FE54F314D03BFB524ECB",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B8D6287C2640A6EF04BD6C6F5199B085C35A001B",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MM_Wall_Trim_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "F406FE7DAA3AE24172836C8865CB9FD8CE87D1C7",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Glass_01a",
+				"/Game/Showcase/Materials/Instance/MI_Transparent_Plastic_01a",
+				"/Game/Showcase/Materials/Instance/MI_Transparent_Plastic_01b"
+			]
+		},
+		{
+			"ShaderMapHash": "8F1F5F7E7ED8776E98951F3FD63EB67F1C0A4643",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Mannequin_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "BC39287FD327A4467C7FD63B0CB3E75E6517A3E6",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_02b"
+			]
+		},
+		{
+			"ShaderMapHash": "E2FA678006D17B446CAC46826FD911CAD969C48B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F059CE82D3C7EA90462819718B6E11E88682DF48",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "095456853A73A7964E083D3E818E3D270468B5B1",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_03c"
+			]
+		},
+		{
+			"ShaderMapHash": "83C43D86781B68D309D31AF37DD550A77AD34C89",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "0F0860873C1F211E763924A745A867447E61CB5B",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8CE4DC87541483D9CCCFA00E36F87B332CA7086E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0A75608896D5AF9C1D6E78B4F464C3564329294E",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Acessories_Trim_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "F13419899E915F399D82AFC5CE2BDAFB188D5C49",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "2D51938B00E783232E1A05AD8A3ECBF10266CF2D",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2B87938C27AFD2BC2E7BE05FF158747F73F74902",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "83E43A8D6610C90936AD39CBF2FBAC62FAA819B8",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C28BB78ED9FEDD1262D71FC25029A655A49A6DF3",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F60B7190CB3A77CE2546AC0A6B57EA99F9BCF37D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "0AC93091D29C277A79476835D7B55C316B40C1F0",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4928649407EBBFADFCA90D34C0D534DD0ACF36BA",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_MasterMaterial_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "D156889D8B57B3A3BFD77ECAD62994D6C2D47426",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Panel_Screen_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "9172149F65AFC8E1C6BDDB91A703865FD47597CE",
+			"Assets": [
+				"/Engine/MaterialTemplates/1Year_Assets/adobe-express-qr-code__1__Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/adobe-express-qr-code_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/ct2f_2023-10-12_233652_434_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/FullSizeRender_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_08936_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_165579_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_256261_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_26144_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_26873_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_3945483_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_406624_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_414548__1__Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_554151_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_652143_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/IMG_871570_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/cpm35_2024-07-21_174907_985_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/ct2f_2023-10-12_233653_041_Mat1",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/dclassic_2023-12-27_113636_621_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/dhalf_2024-04-16_232049_664_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/dhalf_2024-07-21_174943_391_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_2333421_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_256204_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_276457_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_418784_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_426559_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_426563_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_45658659_1__Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_4667074_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_544323_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/IMG_8454341_Mat",
+				"/Engine/MaterialTemplates/1Year_Assets/NewFolder/lp_im65age_1__Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BA3D5D9FE96A687B7AA95270BA8396AEA129E49D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "CDE934A53709407F218BED78C259B8D2EDCE5208",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "24BD53A9200FE09982A01C834750E76F471F94A1",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_01d"
+			]
+		},
+		{
+			"ShaderMapHash": "215A41AA37B54EFF582DD903F5A4F128866E6C58",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "1D6350AB56FEAD60DC2DC56E01D49ABA6759AFBC",
+			"Assets": [
+				"/Game/Showcase/EpicContent/Materials/MM_HairSheet_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "713967AC114B4299CD5697C6CEAFF20DA935692E",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Car_Plastic_03a"
+			]
+		},
+		{
+			"ShaderMapHash": "28C719B46BFB8BD1B882064753FA97316FE4E1AE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "F918AAB515601EB74854D10399503695CBCA1DC6",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "06362AB6D1DAA8A4FE15ECD131E4993A572EA802",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "59F1D1B68865D97CC2B513E0C31F9881A102F4A8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "094061BD8C1B365B161B6E9FD83278CF0D095A18",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D24B1DC0638529BCF7629E3305BF02D46FF1005F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9E7EA9C021C6DA5BD9077E9FA1346E2812B1BC24",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "81EBB1C271E2E26EF152C91747543A3839C61735",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "673148C3D48C380D47157E62A6638CC92DF2E240",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "8325FAC33EE43ACE3D7F8486EBD1937B854374DD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "57F10EC62AE2E2686C544C5524B2F4DCB6FD8018",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E61A8DC842B5250A8821445403011FD6CE05041B",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Screens_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "C190CCC8AD45B4B73C5915F0C1ECAE5AF29CA443",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Bust_01a",
+				"/Game/Showcase/Materials/Instance/MI_Car_Plastic_Pattern_01a",
+				"/Game/Showcase/Materials/Instance/MI_Clay_Pot_02a",
+				"/Game/Showcase/Materials/Instance/MI_Floor_04b",
+				"/Game/Showcase/Materials/Instance/MI_Metal_Panels_01b",
+				"/Game/Showcase/Materials/Masters/M_Surface_Basic"
+			]
+		},
+		{
+			"ShaderMapHash": "29A9FCC810F8D6A043CDA893B48630583552C005",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B446AEC999F91BF6414A7BE7AF0840414FFF17B6",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Car_Black_Glass_01a",
+				"/Game/Showcase/Materials/Instance/MI_Car_Chrome_02a",
+				"/Game/Showcase/Materials/Instance/MI_Car_Metal_02a",
+				"/Game/Showcase/Materials/Instance/MI_Car_Steel_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "4DD70FCC680E1CDC285D7BCF56F5D6F044DC8071",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "475C53CD6F8CDC1574D7A16DA2DB3EEB2BC38619",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Master_Material_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "49B275CDF835ED5D5FD4DD486BBA9CA6419A626D",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "34EF87CEC9BA1BFB733880FFBE5BCE2D129C340A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "C93CACD120C64EAEDB067FD760DB879EAD53600B",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Taillights_01a",
+				"/Game/Showcase/Materials/Masters/MM_Car_Plastic_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "45D73BD537A8676FC5C39308747DF728F2D27F0F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "4227CED5AA1C4AC4B06EBB0204BCB562710B367E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9306EDD589EEC5368DA90BFC34E89575A1CD9E2B",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "081933D62D5376E3811D71548B337C578375B2A8",
+			"Assets": [
+				"/Game/Showcase/EpicContent/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "21DA40D682E9584CC1BABF97521BDDFED67155C7",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Metal_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "0EADC4D6712AEFE7EC28636CD10A33959A6BF413",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "684C03D7BD3F1E8B9076230A899E27A32A681B33",
+			"Assets": [
+				"/Game/Showcase/EpicContent/Mannequin/Character/Materials/M_Male_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "DA946FD75FB83776CEA503C12F37CED742244849",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2D8685D7A57D31C1EB71966473EE981E9BBFB6D5",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D64D6DA01B0D26136F8B60C5B9482597CA163AC",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_Rubber_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "6F880CDB025DFB20949B13B788846D1516132252",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Stage_Lights_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "9F4149DCD9BBA1A56996E2F67FD072DE3906588B",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_02c"
+			]
+		},
+		{
+			"ShaderMapHash": "0340E1E1EC17F128F48B570C1CEF8E41CB7C8F95",
+			"Assets": [
+				"/Game/Showcase/EpicContent/Materials/MM_HairSheet_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "5201BBE5DCE8552C06BADF35C01A8CBFAA52E2E7",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Art_01a",
+				"/Game/Showcase/Materials/Instance/MI_Bench_01a",
+				"/Game/Showcase/Materials/Instance/MI_Bowl_01a",
+				"/Game/Showcase/Materials/Instance/MI_Canvas_01a",
+				"/Game/Showcase/Materials/Instance/MI_Canvas_02a",
+				"/Game/Showcase/Materials/Instance/MI_Canvas_03a",
+				"/Game/Showcase/Materials/Instance/MI_Canvas_04a",
+				"/Game/Showcase/Materials/Instance/MI_Canvas_05a",
+				"/Game/Showcase/Materials/Instance/MI_Canvas_06a",
+				"/Game/Showcase/Materials/Instance/MI_Canvas_07a",
+				"/Game/Showcase/Materials/Instance/MI_Chalice_01a",
+				"/Game/Showcase/Materials/Instance/MI_Chalice_02a",
+				"/Game/Showcase/Materials/Instance/MI_Clay_Pot_01a",
+				"/Game/Showcase/Materials/Instance/MI_Crown_01a",
+				"/Game/Showcase/Materials/Instance/MI_Dagger_01a",
+				"/Game/Showcase/Materials/Instance/MI_Fire_Extinguisher_01a",
+				"/Game/Showcase/Materials/Instance/MI_Geode_01a",
+				"/Game/Showcase/Materials/Instance/MI_Lane_Divider_01a",
+				"/Game/Showcase/Materials/Instance/MI_Metal_Panels_01a",
+				"/Game/Showcase/Materials/Instance/MI_Metal_Panels_01c",
+				"/Game/Showcase/Materials/Instance/MI_Painting_01a",
+				"/Game/Showcase/Materials/Instance/MI_Reflector_Red_01a",
+				"/Game/Showcase/Materials/Instance/MI_Reflector_White_01a",
+				"/Game/Showcase/Materials/Instance/MI_Statue_01a",
+				"/Game/Showcase/Materials/Instance/MI_Statue_02a",
+				"/Game/Showcase/Materials/Instance/MI_Statue_03a",
+				"/Game/Showcase/Materials/Instance/MI_Statue_08a",
+				"/Game/Showcase/Materials/Instance/MI_Statue_09a",
+				"/Game/Showcase/Materials/Instance/MI_Urn_01a",
+				"/Game/Showcase/Materials/Instance/MI_Urn_02a",
+				"/Game/Showcase/Materials/Instance/MI_Wall_Art_01a",
+				"/Game/Showcase/Materials/Instance/MI_Wall_Art_02a",
+				"/Game/Showcase/Materials/Instance/MI_Wall_Skull_01a",
+				"/Game/Showcase/Materials/Instance/MI_Water_Pot_01a",
+				"/Game/Showcase/Materials/Masters/MI_Steel_Beams_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "6D2291E754BB22D73898C96D46D1B60BDB0D2041",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E84946E815A1E0B577CABB66AA55ADC19526ED9E",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_LM_Dress_02a"
+			]
+		},
+		{
+			"ShaderMapHash": "562D65E8420190DE6DD87139EBA7A2C585A8CE70",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C59775EA115B407A09E169877F902E04B31CB00F",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Car_Frosted_Metal_01a",
+				"/Game/Showcase/Materials/Instance/MI_Car_Metal_02b"
+			]
+		},
+		{
+			"ShaderMapHash": "FE22F5EA52592B97054E7EC87699A68EA505C588",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B4F24CEB644D8FCA3E89E4CD7519AB01AC71A858",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2918FDF08E8D69321411D2EBD38E2D32DAA232C2",
+			"Assets": [
+				"/Game/Showcase/Materials/Masters/MM_MaterialLayer_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "2A92F6F7E46552FF96FB2EA748DC6785656A6FFF",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_01a",
+				"/Game/Showcase/Materials/Instance/MI_Outfit_02a"
+			]
+		},
+		{
+			"ShaderMapHash": "AA8F5BFC9853551E2AC29C0C6DB82AC3DBCC2EAC",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Outfit_03a"
+			]
+		},
+		{
+			"ShaderMapHash": "EE4383FC7C22443ECA087ED31A90F396ECDB24FA",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "97FCDAFEE22FF1B30C2F63B5C4F2AEE9277A0B85",
+			"Assets": [
+				"/Game/Showcase/Materials/Instance/MI_Car_Headlights_01b"
+			]
+		},
+		{
+			"ShaderMapHash": "A1C973FFC476E88EE7830D98BB47AEEEAD02167D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		}
+	]
+}
